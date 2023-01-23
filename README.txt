@@ -1,4 +1,10 @@
-#Personal Portfolio
+Personal Portfolio
+
+
+With the utilization of Massively by HTML5 UP and its accompanying templates, in conjunction with the utilization 
+of various web development technologies including HTML, SCSS, CSS, and JavaScript, I successfully created this portfolio. 
+The process required a significant amount of modifications, however, the final outcome is exceptional. 
+The primary focus of the portfolio includes showcasing my past projects as well as providing my contact information.
 
 Credits:
 
